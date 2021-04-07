@@ -8,7 +8,7 @@
 4. Because *The Sorcerer's Apprentice* is an underrated masterpiece
 5. In other words I did not eat breakfast
 
-##Instructions:
+## Instructions:
 
 The purpose of this exercise is to practice the steps you'll need to
 use in future exercises. We'll begin by configuring your GitHub
