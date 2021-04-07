@@ -1,5 +1,12 @@
 # Exercise 2
 
+## Add Image
+
+This is a chicken puffle
+![chicken puffle](chicken.png)
+
+## Instructions:
+
 Learn the basics of git workflow, including adding new files.
 
 1. **Fork** the repo onto your own github account  
