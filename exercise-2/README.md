@@ -2,8 +2,9 @@
 
 ## Add Image
 
-This is a chicken puffle
 ![chicken puffle](chicken.png)
+
+This is a chicken puffle
 
 ## Instructions:
 
